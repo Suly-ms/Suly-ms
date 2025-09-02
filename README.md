@@ -5,7 +5,7 @@
 
 - 🌱 J'étudie **à l'IUT Robert Schuman**
 
-- ⚡ Truc fun à savoir sur moi **Je crois que j'adore coder...**
+- ⚡ Le truc fun à savoir sur moi c'est que **je crois que j'adore coder...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
