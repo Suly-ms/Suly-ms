@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement sur **une application mobile android et ios !**
 
-- 🌱 J'étudie **à l'IUT Robert Schuman**
+- 🌱 J'étudie **à l'IUT Robert Schuman !**
 
 - ⚡ Le truc fun à savoir sur moi c'est que **je crois que j'adore coder...**
 
