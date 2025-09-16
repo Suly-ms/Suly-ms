@@ -8,7 +8,8 @@
 
 ## 🔧 Compétences techniques
 
-- **Langages** : PHP, Python, Java, C#, C, SQL, JavaScript, HTML, CSS  
+- **Langages** : PHP, Python, Java, C#, C, SQL, JavaScript, HTML, CSS
+- **Outils & environnements** : Git, GitHub, GitLab, VS Code, Postman 
 - **Intérêts** : Développement d’applications, jeux vidéo, gestion de données, réseaux
 
 ---
