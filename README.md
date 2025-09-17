@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Martin !
 
-🎓 Étudiant passionné par le développement et les systèmes informatiques.  
+🎓 Je suis étudiant passionné par le développement et par les systèmes informatiques !
 💡 J’aime apprendre, expérimenter et créer des projets concrets.  
 🚀 Je travaille sur des projets variés : jeux de rôle, applications de gestion, et outils pour faciliter la vie quotidienne.
 
