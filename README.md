@@ -45,6 +45,7 @@
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=Donjons-et-Dragons&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Suly-ms/Donjons-et-Dragons)  
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=Projet-Caserne&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Suly-ms/Projet-Caserne)  
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=KeepItClean&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Suly-ms/KeepItClean)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=Add-app-research-linux&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Suly-ms/Add-app-research-linux)
 
 ---
 
