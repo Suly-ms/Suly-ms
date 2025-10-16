@@ -64,8 +64,8 @@
   <a href="https://github.com/Suly-ms/KeepItClean">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=KeepItClean&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Keep It Clean" />
   </a>
-  <a href="https://github.com/Suly-ms/Add-app-research-linux">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=Add-app-research-linux&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Add App Research Linux" />
+  <a href="https://github.com/Suly-ms/T3-simstation">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=T3-simstation&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="T3-simstation" />
   </a>
 </p>
 
