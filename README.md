@@ -52,11 +52,11 @@
 <h2 align=center>📌 Projets mis en avant</h2>
 
 <p align="center">
-  <a href="https://github.com/Suly-ms/Donjons-et-Dragons">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=Donjons-et-Dragons&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Donjons et Dragons" />
+  <a href="https://github.com/Suly-ms/Donjon-et-dragron">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=Donjon-et-dragron&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Donjons et Dragons" />
   </a>
-  <a href="https://github.com/Suly-ms/Projet-Caserne">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=Projet-Caserne&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Projet Caserne" />
+  <a href="https://github.com/Suly-ms/Projet-Gestion-Caserne">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=Suly-ms&repo=Projet-Gestion-Caserne&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Projet Gestion Caserne Pompier" />
   </a>
 </p>
 
