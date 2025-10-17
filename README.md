@@ -14,7 +14,7 @@
 <h3 align="center">🌐 Langages & frameworks</h3>
 <p align="center">
   <img src="./img/html.png" width="40" height="40" alt="HTML" />
-  <img src="./img/css.png" width="40" height="40" alt="CSS" />
+  <img src="./img/css.png" width="30" height="40" alt="CSS" />
   <img src="./img/js.gif" width="40" height="40" alt="JavaScript" />
   <img src="./img/php.svg" width="40" height="40" alt="PHP" />
   <img src="./img/python.gif" width="40" height="40" alt="Python" />
