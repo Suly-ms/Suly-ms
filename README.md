@@ -74,7 +74,7 @@
 <h2 align=center>🌐 Me retrouver</h2>
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/martin-schnider-sylvestre-4a1397360">
+  <a href="https://www.linkedin.com/in/martin-schnider-sylvestre">
     <img height="50" src="./img/linkedin.gif"/>
   </a>
   <a href="https://github.com/Suly-ms">
