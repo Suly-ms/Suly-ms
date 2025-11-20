@@ -80,9 +80,6 @@
   <a href="https://github.com/Suly-ms">
     <img height="50" src="./img/github.gif"/>
   </a>
-  <a href="https://www.instagram.com/martin_schs/">
-    <img height="50" src="./img/instagram.gif"/>
-  </a>
 </div>
 
 <div align=center>
