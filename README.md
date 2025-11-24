@@ -1,9 +1,13 @@
 <h1 align="center">Salut, moi c'est Suly ! 👋</h1>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F73131&width=435&lines=Quand+je+suis+content+je+commit+!;Je+commit+direct+sur+main+tqt...;Linux+n'est+pas+un+os+mais+un+kernel+!;L'amour+est+dans+le+%3Cpre%3E..." alt="Typing SVG" /></a>
+</div>
+
 <p align="center">
-  🎓 Je suis étudiant passionné par le développement et par les systèmes informatiques !<br /> 
-  💡 J’aime apprendre, expérimenter et créer des projets concrets.<br /> 
-  🚀 Je travaille sur des projets variés : jeux de rôle, applications de gestion, et outils pour faciliter la vie quotidienne.
+  🎓 Étudiant passionné par le développement et les systèmes informatiques.<br>
+  💡 J’aime apprendre, expérimenter et créer des projets concrets.<br>
+  🚀 <b>Actuellement :</b> Je travaille sur des jeux de rôle et des applications de gestion.
 </p>
 
 
@@ -41,6 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/Suly-ms/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Suly-ms&show_icons=true&theme=radical" alt="Suly-ms stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suly-ms&layout=compact&theme=radical" alt="Top Langs" />
   </a>
 </p>
@@ -79,6 +84,8 @@
     <img height="50" src="./img/github.gif"/>
   </a>
 </div>
+
+---
 
 <div align=center>
   <img height="150" src="./img/meme.gif"/>
