@@ -45,7 +45,6 @@
 
 <p align="center">
   <a href="https://github.com/Suly-ms/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Suly-ms&show_icons=true&theme=radical" alt="Suly-ms stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suly-ms&layout=compact&theme=radical" alt="Top Langs" />
   </a>
 </p>
