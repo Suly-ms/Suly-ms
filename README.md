@@ -82,10 +82,9 @@
   <a href="https://github.com/Suly-ms">
     <img height="50" src="./img/github.gif"/>
   </a>
+  <a href="https://steamdb.info/calculator/76561198879589746/?cc=eu">
+    <img height="50" src="./img/steam.gif"/>
+  </a>
 </div>
 
 ---
-
-<div align=center>
-  <img height="150" src="./img/meme.gif"/>
-</div>
