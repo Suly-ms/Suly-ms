@@ -28,12 +28,12 @@
 
 <h3 align="center">🛠️ Outils</h3>
 <p align="center">
-  <img src="./img/git.gif" width="40" height="40" alt="Git" />
+  <img src="./img/git.png" width="40" height="40" alt="Git" />
   <img src="./img/github.gif" width="40" height="40" alt="GitHub" />
   <img src="./img/gitlab.gif" width="40" height="40" alt="GitLab" />
   <img src="./img/vs.gif" width="40" height="40" alt="VS Code" />
   <img src="./img/godot.svg" width="40" height="40" alt="Godot" />
-  <img src="./img/postman.gif" width="40" height="40" alt="Postman" />
+  <img src="./img/postman.png" width="40" height="40" alt="Postman" />
   <img src="./img/firebase.gif" width="40" height="40" alt="Firebase" />
 </p>
 
@@ -83,5 +83,3 @@
     <img height="50" src="./img/steam.gif"/>
   </a>
 </div>
-
----
