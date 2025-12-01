@@ -43,17 +43,15 @@
 
 <h2 align=center>📊 Statistiques GitHub</h2>
 
-<p align="center">
-  <a href="https://github.com/Suly-ms/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suly-ms&layout=compact&theme=radical" alt="Top Langs" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Suly-ms&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align=center>
+  <a href="https://github.com/Suly-ms/github-readme-stats"><img alt="Suly-ms Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Suly-ms&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/Suly-ms/github-readme-stats"><img alt="Suly-ms Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Suly-ms&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Suly-ms&label=Profile%20views&color=0e75b6&style=flat" alt="Suly-ms" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Suly-ms&label=Profile%20views&color=0e75b6&style=flat" alt="Suly-ms" /> </a>
+</div>
 
 ---
 
