@@ -49,6 +49,10 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Suly-ms&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Suly-ms&label=Profile%20views&color=0e75b6&style=flat" alt="Suly-ms" /> </p>
 
 ---
